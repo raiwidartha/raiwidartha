@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm I Nyoman Rai Widartha Kesuma S.Kom., M.Kom. |
+# Hi 👋, I'm I Nyoman Rai Widartha Kesuma S.Kom., M.Kom.
 ### Lecturer at Politeknik Negeri Bali (PNB)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Lecturer+in+Software+Engineering+(TRPL);Mobile+%26+Web+Application+Developer;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
