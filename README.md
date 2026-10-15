@@ -52,13 +52,13 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiwidartha&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&border_color=38bdf8&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiwidartha&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=38bdf8" alt="Top Languages" height="175" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raiwidartha&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&border_color=38bdf8&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiwidartha&theme=tokyonight&hide_border=false&border_radius=8&border=38bdf8" alt="GitHub Streak" height="180" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiwidartha&theme=tokyonight&hide_border=false&border_radius=8&border=38bdf8" alt="GitHub Streak" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiwidartha&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=38bdf8" alt="Top Languages" height="165" />
 </p>
 
 ---
