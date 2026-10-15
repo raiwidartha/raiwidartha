@@ -38,6 +38,18 @@
 
 ---
 
+### 🚀 Featured Public Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**🌴 KMS-SAWIT-2022**](https://github.com/raiwidartha/KMS-SAWIT-2022) | Mobile Knowledge Management System for palm oil agriculture: cultivation guide, best practices, and pest diagnosis. | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| [**🎬 Anime_Scrapping**](https://github.com/raiwidartha/Anime_Scrapping) | Modern web portal & automated anime scraping platform with responsive dark UI and user authentication. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| [**🏥 S.A.R (SiloPlus)**](https://github.com/raiwidartha/S.A.R) | Hospital service & clinic management platform: outpatient queue system, doctor schedules, and patient medical records. | ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| [**💰 Cash-Flow**](https://github.com/raiwidartha/Cash-Flow) | Financial ledger & inventory tracking web application with automated balance calculation and reporting. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| [**📰 SCB-WEB**](https://github.com/raiwidartha/SCB-WEB) | High-performance content publishing and article portal powered by Jamstack architecture and headless CMS. | ![Gatsby](https://img.shields.io/badge/Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white) ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white) |
+
+---
+
 ### 🐍 Contribution Activity
 
 <div align="center">
