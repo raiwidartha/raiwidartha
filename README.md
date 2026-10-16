@@ -22,7 +22,7 @@
 ### 👨‍🏫 About Me
 - 🏛️ **Lecturer** in **D4 TRPL** (Teknologi Rekayasa Perangkat Lunak) at **Politeknik Negeri Bali (PNB)**.
 - 💻 **Focus**: Software Engineering, Mobile & Web App Architecture, AI-driven applications.
-- 🎯 **Current Projects**: Asisten Tani Pintar (Smart Agri AI), VoxLuna-AI, Knowledge Management Systems.
+- 🎯 **Current Projects**: Asisten Tani Pintar (Smart Agri AI), Kakao Assistant, VoxLuna-AI, Knowledge Management Systems.
 - 💬 **Ask me about**: Flutter, Python / FastAPI, Laravel, Software Architecture, Database Engineering.
 
 ---
