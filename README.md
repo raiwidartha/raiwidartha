@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Lecturer+in+Software+Engineering+(TRPL);Mobile+%26+Web+Application+Architect;AI+%26+Machine+Learning+Researcher;Creator+of+Asisten+Tani+Pintar;Building+VoxLuna-AI;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Lecturer+in+Software+Engineering+(TRPL);Mobile+%26+Web+Application+Architect;AI+%26+Machine+Learning+Researcher;Creator+of+Asisten+Tani+Pintar;Building+Kakao+Assistant+%26+VoxLuna-AI;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### 👨‍🏫 About Me
 - 🏛️ **Lecturer** in **D4 TRPL** (Teknologi Rekayasa Perangkat Lunak) at **Politeknik Negeri Bali (PNB)**.
 - 💻 **Focus**: Software Engineering, Mobile & Web App Architecture, AI-driven applications.
-- 🎯 **Current Projects**: Asisten Tani Pintar (Smart Agri AI), Kakao Assistant, VoxLuna-AI, Knowledge Management Systems.
+- 🎯 **Current Projects**: Asisten Tani Pintar (Smart Agri AI), Kakao Assistant (Smart Cocoa AI Advisor), VoxLuna-AI, Knowledge Management Systems.
 - 💬 **Ask me about**: Flutter, Python / FastAPI, Laravel, Software Architecture, Database Engineering.
 
 ---
@@ -41,9 +41,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**🌙 VoxLuna-AI**](https://github.com/raiwidartha/VoxLuna-AI) | AI English vocal & conversational fluency coach: real-time phoneme alignment, 50K quiz academy, hands-free conversational voice AI with 7s Smart Silence VAD, and multi-key fallback. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | [**🌱 AsistenTaniPintar**](https://github.com/raiwidartha/AsistenTaniPintar) | Smart agricultural AI assistant: multimodal plant disease/pest diagnosis via photo, multi-model fallback, and local session persistence. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | [**🌴 KMS-SAWIT-2022**](https://github.com/raiwidartha/KMS-SAWIT-2022) | Mobile Knowledge Management System for palm oil agriculture: cultivation guide, best practices, and pest diagnosis. | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| [**🎬 Anime_Scrapping**](https://github.com/raiwidartha/Anime_Scrapping) | Modern web portal & automated anime scraping platform with responsive dark UI and user authentication. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | [**🏥 S.A.R (SiloPlus)**](https://github.com/raiwidartha/S.A.R) | Hospital service & clinic management platform: outpatient queue system, doctor schedules, and patient medical records. | ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | [**💰 Cash-Flow**](https://github.com/raiwidartha/Cash-Flow) | Financial ledger & inventory tracking web application with automated balance calculation and reporting. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | [**📰 SCB-WEB**](https://github.com/raiwidartha/SCB-WEB) | High-performance content publishing and article portal powered by Jamstack architecture and headless CMS. | ![Gatsby](https://img.shields.io/badge/Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white) ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white) |
