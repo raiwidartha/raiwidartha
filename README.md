@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,laravel,ts,js,nodejs,postgres,mysql,sqlite,supabase,docker,git,github,androidstudio,figma,linux&perline=9" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react,js,ts,nodejs,php,laravel,python,fastapi,mysql,sqlite,git,github,figma&perline=8" alt="Skills" />
   </a>
 </div>
 
@@ -41,13 +41,67 @@
 
 | Project | Status | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| **🌙 VoxLuna-AI** | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) | Intelligent AI English vocal & conversational coach (v1.16.4): 10 professional multi-persona AI (Luna, Leo, Lily, Elena, Marcus, Chloe, Oliver, Sophia, Kai, Zara) with role-aligned illustrated cartoon avatars, anti-border cut API key security badges, clean audio preview test buttons, Android male voice engine with auto-pitch tuning, 10K everyday vocabulary with persistent shuffle, unified TTS articulation sync, 50K grammar quiz academy, hands-free conversational voice AI with 7s Smart Silence VAD, audio-first conversation prompts, native device SQL restore, and multi-key quota auto-fallback. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **🍫 Kakao Assistant** | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) | Smart Cocoa AI Advisor: computer vision diagnosis for cocoa pod borer (PBK), black pod rot & vascular streak dieback (VSD), tailored pesticide & fertilizer dosage guides, farm sanitation tracking, and harvest yield optimization. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **🌱 AsistenTaniPintar** | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) | Specialized rice crop AI assistant: multimodal pest & disease diagnosis via leaf/stem photo (Kresek, Blas, WBC, Sundep), automated curative chemical/organic dosages, balanced fertilization schedules, and 5-tier cascading Gemini fallback with zero hardcoded credentials. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **🌙 VoxLuna-AI** | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square)<br/><a href="#-voxluna-ai-v1164">📸 *Preview*</a> | Intelligent AI English vocal & conversational coach (v1.16.4): 10 professional multi-persona AI (Luna, Leo, Lily, Elena, Marcus, Chloe, Oliver, Sophia, Kai, Zara) with role-aligned illustrated cartoon avatars, anti-border cut API key security badges, clean audio preview test buttons, Android male voice engine with auto-pitch tuning, 10K everyday vocabulary with persistent shuffle, unified TTS articulation sync, 50K grammar quiz academy, hands-free conversational voice AI with 7s Smart Silence VAD, audio-first conversation prompts, native device SQL restore, and multi-key quota auto-fallback. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **🍫 Kakao Assistant** | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square)<br/><a href="#-kakao-assistant">📸 *Preview*</a> | Smart Cocoa AI Advisor: computer vision diagnosis for cocoa pod borer (PBK), black pod rot & vascular streak dieback (VSD), tailored pesticide & fertilizer dosage guides, farm sanitation tracking, and harvest yield optimization. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **🌱 AsistenTaniPintar** | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square)<br/><a href="#-asistentanipintar">📸 *Preview*</a> | Specialized rice crop AI assistant: multimodal pest & disease diagnosis via leaf/stem photo (Kresek, Blas, WBC, Sundep), automated curative chemical/organic dosages, balanced fertilization schedules, and 5-tier cascading Gemini fallback with zero hardcoded credentials. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | [**🌴 KMS_SAWIT**](https://github.com/raiwidartha/KMS_SAWIT) | ![Public](https://img.shields.io/badge/Public-238636?style=flat-square) | Mobile Knowledge Management System for oil palm agriculture: comprehensive plantation cultivation guides, Ganoderma & pest identification catalog, best practices field advisory, and offline-ready agronomic reference. | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | [**🏥 S.A.R (SiloPlus)**](https://github.com/raiwidartha/S.A.R) | ![Public](https://img.shields.io/badge/Public-238636?style=flat-square) | Hospital & clinical service management platform: outpatient queue orchestration, real-time doctor consultation scheduling, digital patient medical records, and integrated pharmacy workflow. | ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | [**💰 Cash-Flow**](https://github.com/raiwidartha/Cash-Flow) | ![Public](https://img.shields.io/badge/Public-238636?style=flat-square) | Financial ledger & inventory tracking web application: real-time automated debit/credit balance reconciliation, inventory valuation, transaction filtering, and exportable financial performance reports. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | [**📰 SCB-WEB**](https://github.com/raiwidartha/SCB-WEB) | ![Public](https://img.shields.io/badge/Public-238636?style=flat-square) | High-performance content publishing & digital article portal: powered by Jamstack static site generation (SSG), headless CMS content modeling, responsive asset optimization, and global edge CDN distribution. | ![Gatsby](https://img.shields.io/badge/Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white) ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white) |
+
+---
+
+### 📱 Private Projects Live Preview
+> *Operational application interface previews. Proprietary source code and build distributions are protected under private repositories and research copyright (HKI).*
+
+<details open>
+<summary><h4 style="display:inline">🌙 VoxLuna-AI (v1.16.4)</h4></summary>
+<br/>
+<p align="center">
+  <img src="assets/previews/voxluna/01_ai_chat.png" width="23%" alt="AI Conversation Screen"/>
+  &nbsp;
+  <img src="assets/previews/voxluna/02_syllabus.png" width="23%" alt="Structured Learning Syllabus"/>
+  &nbsp;
+  <img src="assets/previews/voxluna/03_pronunciation.png" width="23%" alt="Phoneme Articulation Drill"/>
+  &nbsp;
+  <img src="assets/previews/voxluna/04_persona_settings.png" width="23%" alt="10 Personas & Settings"/>
+</p>
+<p align="center">
+  <sub><b>Fig 1.1:</b> Conversational Voice AI • <b>Fig 1.2:</b> Learning Path Syllabus • <b>Fig 1.3:</b> Articulation & Phoneme Drills • <b>Fig 1.4:</b> 10 Multi-Persona AI & Quota Fallback</sub>
+</p>
+</details>
+
+<details open>
+<summary><h4 style="display:inline">🍫 Kakao Assistant</h4></summary>
+<br/>
+<p align="center">
+  <img src="assets/previews/kakao_assistant/01_chat_consultation.png" width="35%" alt="Kakao Cultivation Chat"/>
+  &nbsp;&nbsp;
+  <img src="assets/previews/kakao_assistant/02_multimodal_diagnosis.png" width="35%" alt="Multimodal Disease Diagnosis"/>
+  &nbsp;&nbsp;
+  <img src="assets/previews/kakao_assistant/03_research_metrics.png" width="22%" alt="Research Metrics & Latency Dashboard"/>
+</p>
+<p align="center">
+  <sub><b>Fig 2.1:</b> Agronomic Consultation Chat • <b>Fig 2.2:</b> Multimodal Cocoa Disease Diagnosis (PBK/VSD) • <b>Fig 2.3:</b> Live Research Metrics & CSAT Evaluation</sub>
+</p>
+</details>
+
+<details open>
+<summary><h4 style="display:inline">🌱 AsistenTaniPintar</h4></summary>
+<br/>
+<p align="center">
+  <img src="assets/previews/asisten_tani/01_onboarding.png" width="23%" alt="App Onboarding"/>
+  &nbsp;
+  <img src="assets/previews/asisten_tani/02_crop_consultation.png" width="23%" alt="Fertilizer & Crop Consultation"/>
+  &nbsp;
+  <img src="assets/previews/asisten_tani/03_pest_disease_diagnosis.png" width="23%" alt="Pest & Disease Diagnosis"/>
+  &nbsp;
+  <img src="assets/previews/asisten_tani/04_consultation_history.png" width="23%" alt="Consultation Log History"/>
+</p>
+<p align="center">
+  <sub><b>Fig 3.1:</b> Welcome Onboarding • <b>Fig 3.2:</b> Rice Fertilizer Consultation • <b>Fig 3.3:</b> Brown Spot Leaf Diagnosis • <b>Fig 3.4:</b> Log & History Sync</sub>
+</p>
+</details>
 
 ---
 
