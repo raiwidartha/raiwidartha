@@ -52,7 +52,7 @@
 ---
 
 ### 📱 Private Projects Live Preview
-> *Operational application interface previews. Proprietary source code, datasets, and distributions are protected under academic research copyright (HKI) and private repository governance.*
+> *Operational application interface previews. Proprietary source code, datasets, and distributions are protected and private only to developer.*
 
 <details open id="preview-voxluna">
 <summary><h4 style="display:inline">🌙 VoxLuna-AI (v1.16.4)</h4></summary>
