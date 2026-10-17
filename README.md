@@ -58,13 +58,13 @@
 <summary><h4 style="display:inline">🌙 VoxLuna-AI (v1.16.4)</h4></summary>
 <br/>
 <p align="center">
-  <img src="assets/previews/voxluna/01_ai_chat.png?v=20261017b" width="23%" alt="AI Conversation Screen"/>
+  <img src="assets/previews/voxluna/01_ai_chat.png?v=20261017c" width="23%" alt="AI Conversation Screen"/>
   &nbsp;
-  <img src="assets/previews/voxluna/02_syllabus.png?v=20261017b" width="23%" alt="Structured Learning Syllabus"/>
+  <img src="assets/previews/voxluna/02_syllabus.png?v=20261017c" width="23%" alt="Structured Learning Syllabus"/>
   &nbsp;
-  <img src="assets/previews/voxluna/03_pronunciation.png?v=20261017b" width="23%" alt="Phoneme Articulation Drill"/>
+  <img src="assets/previews/voxluna/03_pronunciation.png?v=20261017c" width="23%" alt="Phoneme Articulation Drill"/>
   &nbsp;
-  <img src="assets/previews/voxluna/04_persona_settings.png?v=20261017b" width="23%" alt="10 Personas & Settings"/>
+  <img src="assets/previews/voxluna/04_persona_settings.png?v=20261017c" width="23%" alt="10 Personas & Settings"/>
 </p>
 <p align="center">
   <sub><b>Fig 1.1:</b> Conversational Voice AI • <b>Fig 1.2:</b> Learning Path Syllabus • <b>Fig 1.3:</b> Articulation & Phoneme Drills • <b>Fig 1.4:</b> 10 Multi-Persona AI & Quota Fallback</sub>
@@ -75,13 +75,13 @@
 <summary><h4 style="display:inline">🍫 Kakao Assistant</h4></summary>
 <br/>
 <p align="center">
-  <img src="assets/previews/kakao_assistant/01_splash_welcome.png?v=20261017b" width="23%" alt="App Splash Screen"/>
+  <img src="assets/previews/kakao_assistant/01_splash_welcome.png?v=20261017c" width="23%" alt="App Splash Screen"/>
   &nbsp;
-  <img src="assets/previews/kakao_assistant/02_chat_consultation.png?v=20261017b" width="23%" alt="Farmer Chat Consultation"/>
+  <img src="assets/previews/kakao_assistant/02_chat_consultation.png?v=20261017c" width="23%" alt="Farmer Chat Consultation"/>
   &nbsp;
-  <img src="assets/previews/kakao_assistant/03_multimodal_diagnosis.png?v=20261017b" width="23%" alt="Multimodal Disease Diagnosis"/>
+  <img src="assets/previews/kakao_assistant/03_multimodal_diagnosis.png?v=20261017c" width="23%" alt="Multimodal Disease Diagnosis"/>
   &nbsp;
-  <img src="assets/previews/kakao_assistant/04_research_metrics.png?v=20261017b" width="23%" alt="Research Metrics & Latency Dashboard"/>
+  <img src="assets/previews/kakao_assistant/04_research_metrics.png?v=20261017c" width="23%" alt="Research Metrics & Latency Dashboard"/>
 </p>
 <p align="center">
   <sub><b>Fig 2.1:</b> Welcome Onboarding • <b>Fig 2.2:</b> Agronomic Consultation Chat • <b>Fig 2.3:</b> Multimodal Cocoa Disease Diagnosis (PBK/VSD) • <b>Fig 2.4:</b> Live Research Metrics & CSAT Evaluation</sub>
@@ -92,13 +92,13 @@
 <summary><h4 style="display:inline">🌱 AsistenTaniPintar</h4></summary>
 <br/>
 <p align="center">
-  <img src="assets/previews/asisten_tani/01_onboarding.png?v=20261017b" width="23%" alt="App Onboarding"/>
+  <img src="assets/previews/asisten_tani/01_onboarding.png?v=20261017c" width="23%" alt="App Onboarding"/>
   &nbsp;
-  <img src="assets/previews/asisten_tani/02_crop_consultation.png?v=20261017b" width="23%" alt="Fertilizer & Crop Consultation"/>
+  <img src="assets/previews/asisten_tani/02_crop_consultation.png?v=20261017c" width="23%" alt="Fertilizer & Crop Consultation"/>
   &nbsp;
-  <img src="assets/previews/asisten_tani/03_pest_disease_diagnosis.png?v=20261017b" width="23%" alt="Pest & Disease Diagnosis"/>
+  <img src="assets/previews/asisten_tani/03_pest_disease_diagnosis.png?v=20261017c" width="23%" alt="Pest & Disease Diagnosis"/>
   &nbsp;
-  <img src="assets/previews/asisten_tani/04_consultation_history.png?v=20261017b" width="23%" alt="Consultation Log History"/>
+  <img src="assets/previews/asisten_tani/04_consultation_history.png?v=20261017c" width="23%" alt="Consultation Log History"/>
 </p>
 <p align="center">
   <sub><b>Fig 3.1:</b> Welcome Onboarding • <b>Fig 3.2:</b> Rice Fertilizer Consultation • <b>Fig 3.3:</b> Brown Spot Leaf Diagnosis • <b>Fig 3.4:</b> Log & History Sync</sub>
