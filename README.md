@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=raiwidartha&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS&base=1000"><img src="https://komarev.com/ghpvc/?username=raiwidartha&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS&base=1000" alt="Profile Views"/></a>
+  <a href="https://hits.sh/github.com/raiwidartha/"><img src="https://hits.sh/github.com/raiwidartha.svg?style=for-the-badge&label=PROFILE+VIEWS&color=0284c7&labelColor=1e293b" alt="Profile Views"/></a>
   <a href="https://www.linkedin.com/in/raiwidartha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:widarthakesuma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Bali%2C%20Indonesia-059669?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
@@ -52,7 +52,7 @@
 ---
 
 ### 📱 Private Projects Live Preview
-> *Operational application interface previews. Proprietary source code and build distributions are protected under private repositories and research copyright (HKI).*
+> *Operational application interface previews. Proprietary source code, datasets, and distributions are protected under academic research copyright (HKI) and private repository governance.*
 
 <details open id="preview-voxluna">
 <summary><h4 style="display:inline">🌙 VoxLuna-AI (v1.16.4)</h4></summary>
@@ -75,14 +75,16 @@
 <summary><h4 style="display:inline">🍫 Kakao Assistant</h4></summary>
 <br/>
 <p align="center">
-  <img src="assets/previews/kakao_assistant/01_chat_consultation.png" width="35%" alt="Kakao Cultivation Chat"/>
-  &nbsp;&nbsp;
-  <img src="assets/previews/kakao_assistant/02_multimodal_diagnosis.png" width="35%" alt="Multimodal Disease Diagnosis"/>
-  &nbsp;&nbsp;
-  <img src="assets/previews/kakao_assistant/03_research_metrics.png" width="22%" alt="Research Metrics & Latency Dashboard"/>
+  <img src="assets/previews/kakao_assistant/01_splash_welcome.png" width="23%" alt="App Splash Screen"/>
+  &nbsp;
+  <img src="assets/previews/kakao_assistant/02_chat_consultation.png" width="23%" alt="Farmer Chat Consultation"/>
+  &nbsp;
+  <img src="assets/previews/kakao_assistant/03_multimodal_diagnosis.png" width="23%" alt="Multimodal Disease Diagnosis"/>
+  &nbsp;
+  <img src="assets/previews/kakao_assistant/04_research_metrics.png" width="23%" alt="Research Metrics & Latency Dashboard"/>
 </p>
 <p align="center">
-  <sub><b>Fig 2.1:</b> Agronomic Consultation Chat • <b>Fig 2.2:</b> Multimodal Cocoa Disease Diagnosis (PBK/VSD) • <b>Fig 2.3:</b> Live Research Metrics & CSAT Evaluation</sub>
+  <sub><b>Fig 2.1:</b> Welcome Onboarding • <b>Fig 2.2:</b> Agronomic Consultation Chat • <b>Fig 2.3:</b> Multimodal Cocoa Disease Diagnosis (PBK/VSD) • <b>Fig 2.4:</b> Live Research Metrics & CSAT Evaluation</sub>
 </p>
 </details>
 
